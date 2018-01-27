@@ -1,0 +1,90 @@
+@media (min-width: 1024px) {
+  h2,
+  h3 {
+    font-size: 1.5em;
+  }
+
+  main p {
+    font-size: 1.2em;
+  }
+
+  .myButton {
+    font-size: 1.2em;
+  }
+
+  main {
+    width: 1200px;
+    margin: auto;
+  }
+
+  /**********
+  * Header
+  **********/
+
+  #containerVisual {
+    height: 320px;
+  }
+
+  #informationVisual p {
+    display: block;
+  }
+
+  #containerText {
+    top: 1.5em;
+    left: 2em;
+  }
+
+  /**********
+  * Sponsors
+  **********/
+
+  #sponsors img {
+    max-height: 120px;
+    max-width: 100%;
+  }
+
+  #littleSponsors img {
+    max-height: 70px;
+  }
+
+  /**********
+  * Comité
+  **********/
+
+  #comite img {
+    width: 70%;
+  }
+
+  /**********
+  * Les Courses
+  **********/
+
+  .flip,
+  .flipContainer {
+    width: 500px;
+  }
+
+  .flipContainer {
+    margin: auto;
+  }
+
+  /**********
+  * Réglement
+  **********/
+
+  #reglement {
+    margin: 1em;
+  }
+
+  #reglement p {
+    font-size: 1.1em;
+  }
+
+  /**********
+  * Footer
+  **********/
+
+  footer p {
+    font-size: 1.4em;
+  }
+}

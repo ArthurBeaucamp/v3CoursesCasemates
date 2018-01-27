@@ -7,9 +7,29 @@
     <title>Les Courses Des Casemates</title>
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/tablet.css">
+    <link rel="stylesheet" href="css/desktop.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
   </head>
   <body>
-    <header>
+    <div id="container">
+      <header>
+        <nav>
+          <a href="presentation.php">Présentation</a>
+          <a href="courses.php">Les Courses</a>
+          <a href="coureurs.php">Coureurs</a>
+          <a href="contact.php">Contact</a>
+        </nav>
 
-    </header>
-    <main>
+        <div id="containerVisual">
+          <div id="containerText">
+            <div id="informationVisual">
+              <a href="index.php"><h1>Trail des casemates</h1></a>
+              <p>Course des Boum Coeur : 13km / 420mD+</p>
+              <p>Rush des casemates : 24km / 730mD+</p>
+              <p>10 / 02 / 2018 à Dangolsheim</p>
+            </div>
+          </div>
+        </div>
+      </header>
+      <main>

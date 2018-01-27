@@ -1,0 +1,135 @@
+@media (min-width: 768px) {
+  mark,
+  a {
+    font-size: 1.1em;
+  }
+
+  h2,
+  h3 {
+    font-size: 1.4em;
+  }
+
+  main p {
+    font-size: 1.1em;
+  }
+
+  .myButton {
+    font-size: 1.1em;
+  }
+
+  /**********
+  * Header
+  **********/
+
+  #containerVisual {
+    height: 250px;
+  }
+
+  #informationVisual p {
+    display: block;
+  }
+
+  #containerText {
+    top: 1em;
+    left: 1em;
+  }
+
+  h1 {
+    font-size: 2.4em;
+  }
+
+  nav {
+    flex-wrap: nowrap;
+  }
+
+  nav a {
+    font-size: 1.5em;
+    width: 25%;
+  }
+
+  /**********
+  * Sponsors
+  **********/
+
+  #sponsors img {
+    max-height: 100px;
+    max-width: 160px;
+  }
+
+  #littleSponsors {
+    flex-wrap: nowrap;
+  }
+
+  #littleSponsors img {
+    max-height: 50px;
+  }
+
+  /**********
+  * Evénement
+  **********/
+
+  #evenement img {
+    visibility: visible;
+    height: 170px;
+    margin: 0.5em;
+  }
+
+  /**********
+  * programme
+  **********/
+
+  #programme img {
+    width: 80%;
+  }
+
+  /**********
+  * Fort de Mutzig
+  **********/
+
+  #histoire img {
+    height: 200px;
+  }
+
+  /**********
+  * Les Courses
+  **********/
+
+  .flip {
+    width: 65%;
+  }
+
+  .flip,
+  .frontFlip,
+  .backFlip,
+  .flipContainer {
+    height: 600px;
+  }
+
+  /**********
+  * Réglement
+  **********/
+
+  #reglement p {
+    font-size: 0.9em;
+  }
+
+  /**********
+  * Inscription
+  **********/
+
+  #inscription img {
+    width: 700px;
+  }
+
+  /**********
+  * Footer
+  **********/
+
+  footer p {
+    font-size: 1.2em;
+  }
+
+  footer p a {
+    font-size: 1em;
+  }
+}
