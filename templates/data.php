@@ -32,7 +32,7 @@ $menbresComite = [
   ['title' => 'Vice-Secrétaire', 'name' => 'Jeremy KIEFFEL'],
   ['title' => 'Trésorier', 'name' => 'Christophe SCHON'],
   ['title' => 'Vice-Trésorier', 'name' => 'Marie-Hélène BEAUCAMP'],
-  ['title' => 'Responsable Podium', 'name' => 'Clarisse SALOMON'],
+  ['title' => 'Responsable Parking et voirie', 'name' => 'Thomas DISTEL'],
   ['title' => 'Responsable Communication', 'name' => 'Sebastien HERRMANN &amp; Arthur BEAUCAMP'],
   ['title' => 'Responsable Bénévoles', 'name' => 'Toni MONTEIRO'],
 ];

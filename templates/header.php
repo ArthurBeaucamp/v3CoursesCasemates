@@ -25,9 +25,9 @@
           <div id="containerText">
             <div id="informationVisual">
               <a href="index.php"><h1>Trail des casemates</h1></a>
-              <p>Course des Boum Coeur : 13km / 420mD+</p>
-              <p>Rush des casemates : 24km / 730mD+</p>
-              <p>10 / 02 / 2018 à Dangolsheim</p>
+              <p>Course des Boum Coeur : 13km / 423mD+</p>
+              <p>Rush des casemates : 24km / 680mD+</p>
+              <p>09 / 02 / 2019 à Dangolsheim</p>
             </div>
           </div>
         </div>
