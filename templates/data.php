@@ -13,6 +13,7 @@ $bigSponsors = [
   ['title' => 'Creche Pomme de Reinettes', 'src' => 'Creche', 'href' => 'http://pommedereinettes.monwebpro.com/'],
   ['title' => 'Lisbeth', 'src' => 'Lisbeth', 'href' => 'https://www.lisbeth.alsace/'],
   ['title' => 'Foulées Passion', 'src' => 'FouleesPassion', 'href' => 'http://www.fouleespassion.fr/'],
+  ['title' => 'Passion Fiat', 'src' => 'PassionPositif', 'href' => '#'],
 ];
 
 $littleSponsors = [
