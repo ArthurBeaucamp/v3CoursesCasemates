@@ -23,6 +23,8 @@ $littleSponsors = [
   ['title' => 'Les Divins', 'src' => 'Divins', 'href' => 'https://www.lesdivins.com/les-produits-traiteurs/'],
   ['title' => 'Est Paysages d\'alsace', 'src' => 'Paysages', 'href' => 'https://www.estpaysages.fr/'],
   ['title' => 'Mustang', 'src' => 'Mustang', 'href' => 'https://www.facebook.com/mustangjeansmarlenheim/'],
+  ['title' => 'ABK Alsace', 'src' => 'Abk', 'href' => '#'],
+  ['title' => 'Sulzbad', 'src' => 'Sulzbad', 'href' => 'https://www.sulzbad.com/'],
   ['title' => 'Soultz-les-bains', 'src' => 'Soultz', 'href' => 'http://www.soultz-les-bains.fr/'],
 ];
 
@@ -34,6 +36,7 @@ $menbresComite = [
   ['title' => 'Trésorier', 'name' => 'Christophe SCHON'],
   ['title' => 'Vice-Trésorier', 'name' => 'Marie-Hélène BEAUCAMP'],
   ['title' => 'Responsable Parking et voirie', 'name' => 'Thomas DISTEL'],
+  ['title' => 'Responsable Sponsors', 'name' => 'Francis KNOPF'],
   ['title' => 'Responsable Communication', 'name' => 'Sebastien HERRMANN &amp; Arthur BEAUCAMP'],
   ['title' => 'Responsable Bénévoles', 'name' => 'Toni MONTEIRO'],
 ];
